@@ -19,6 +19,8 @@ Tl;dr:
 | Infill        | 0%                       |
 | Wall count    | 4                        |
 
+
+
 ### Useful links
 
 - [OS-V face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
