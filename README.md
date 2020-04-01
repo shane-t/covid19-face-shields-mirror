@@ -23,6 +23,7 @@ Tl;dr:
 
 ### Useful links
 
+- [Google Form](https://forms.gle/iBgn1YcejnERhFzx9) to track who has 3d printers and can produce shields
 - [OS-V face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
