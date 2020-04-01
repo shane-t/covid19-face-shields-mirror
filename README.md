@@ -9,7 +9,7 @@ We are using the European 3DVerkstan mask with the Prusa bottom support
 
 ## Print settings
 
-https://3dverkstan.se/protective-visor/protective-visor-print-guide/
+[https://3dverkstan.se/protective-visor/protective-visor-print-guide/](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
 Tl;dr:
 
