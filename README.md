@@ -2,12 +2,12 @@
 
 We are using the European 3DVerkstan mask with the Prusa bottom reinforcement
 
-### 3D Files
+### STL Files
 
 - [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl)
 - [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl)
 
-## Print settings
+### Print settings
 
 [https://3dverkstan.se/protective-visor/protective-visor-print-guide/](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
@@ -19,3 +19,9 @@ Tl;dr:
 | Infill        | 0%                       |
 | Wall count    | 4                        |
 
+### Useful links
+
+- [OS-V face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
+- [Covid community response](https://covidcommunityresponse.ie/)
+- [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
+- [OSV Slack](https://join.slack.com/t/otherosvprojects/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q)
