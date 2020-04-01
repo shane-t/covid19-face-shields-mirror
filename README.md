@@ -1,6 +1,6 @@
-## Covid 19 3d printable masks
+## Covid 19 3d printable face shields
 
-We are using the European 3DVerkstan mask with the Prusa bottom reinforcement
+We are using the European 3DVerkstan headband with the Prusa bottom reinforcement
 
 ### STL Files
 
