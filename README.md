@@ -27,3 +27,4 @@ Tl;dr:
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
 - [OSV Slack](https://join.slack.com/t/otherosvprojects/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q)
+- [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
