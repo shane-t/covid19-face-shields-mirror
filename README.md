@@ -27,5 +27,5 @@ Tl;dr:
 - [OS-V face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
-- [OSV Slack](https://join.slack.com/t/otherosvprojects/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q)
+- [OSV Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q)
 - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
