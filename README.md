@@ -34,7 +34,7 @@ Tl;dr:
 | Infill        | 0%                        |
 | Wall count    | 4                         |
 
-### Cleanliness
+### Cleanliness ⚠️
 
 - Do not make shields if you are not practicing isolation - you are risking the lives of patients and healthcare workers
 - Even so, you must act like you are already infected
