@@ -1,6 +1,6 @@
 ## Overview
 
-Hobbyists, makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
+Makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
 We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
@@ -93,3 +93,7 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
 - [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
 - [Bravo Charlie Tango - Bikers coming through](https://www.facebook.com/bravocharlietango1) - formerly organised by the [Irish Photo Rally](https://www.facebook.com/groups/380561575647815/) - volunteer motorcyclists delivering PPE
+
+#### This document
+
+This document is up to date as of 2 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
