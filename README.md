@@ -56,11 +56,12 @@ Until laser cut versions of the shield plastic are available, you can use transp
 
 #### Preparing the acetate (Work in Progress)
 
-You can follow the instructions on the [3dverkstan page](https://3dverkstan.se/protective-visor/protective-visor-versions/). Follow the instructions for the European version. 
+There is documentation on cutting the acetate on the [3dverkstan page](https://3dverkstan.se/protective-visor/protective-visor-versions/). Follow the instructions for the European version. 
+
+You can use a [3d printable cutting guide](https://www.thingiverse.com/thing:4251419) for slicing the corners.
 
 - TODO: Add a video of the acetate being prepared.
 - TODO: Add template for cutting out acetate
-- TODO: Add 3d printable guide part
 
 #### Shield Assembly
 
