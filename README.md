@@ -1,4 +1,4 @@
-## Shields for heroes
+## Overview
 
 Hobbyists, makers and enthusiasts are 3D printing splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
