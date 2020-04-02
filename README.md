@@ -48,7 +48,7 @@ Tl;dr:
 
 ## What to do with completed headbands if you cannot produce shields
 
-A group based in Cork ([facebook link](https://www.facebook.com/3dprintedfaceshields) are collecting printed parts using the blood bike network from everywhere in the country.
+A group based in Cork ([facebook link](https://www.facebook.com/3dprintedfaceshields)) are collecting printed parts using the blood bike network from everywhere in the country.
 
 They have a [getting started document](https://docs.google.com/document/d/1fa9RBVyz0xO1DSHTA3a_CUmjIGVTAJh6QOq5_PqGjqQ/edit) which includes a sign up form and a [job tracker](https://docs.google.com/spreadsheets/d/1ySXC6XBCXWqMnbxaJr-0udGCNy299FHu5ZY_5JT23No/edit#gid=0). This group is preparing a HSE provided facility for central assembly and sanitizing of 3d printed parts, as well as machinery for cut-and-die of acetate sheets.
 
