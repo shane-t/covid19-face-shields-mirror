@@ -103,7 +103,8 @@ You can use a [3d printable cutting guide](https://www.thingiverse.com/thing:425
 - [OSV-X face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
-- [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
+- [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) 
+- [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
 - [Bravo Charlie Tango - Bikers coming through](https://www.facebook.com/bravocharlietango1) - formerly organised by the [Irish Photo Rally](https://www.facebook.com/groups/380561575647815/) - volunteer motorcyclists delivering PPE
 
 ## This document
