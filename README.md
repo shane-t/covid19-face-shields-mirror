@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 Makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
@@ -38,9 +38,9 @@ Tl;dr:
 
 - Do not make shields if you are not practicing isolation - you are risking the lives of patients and healthcare workers
 - Even so, you must act like you are already infected
-- Practice sterile or aseptic technique when handling printed parts or assembling shields. Understand the difference between sanitizing and sterilising something - 3D printed shields cannot be sterilized and must be discarded after use or contamination
+- Practice [aseptic technique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579997/) when handling printed parts or assembling shields. Understand the difference between sanitizing and sterilising something - 3D printed shields cannot be sterilized and must be discarded after use or contamination
 - Wear gloves and frequently wash hands when handling printed parts. Do not touch your face or body while wearing gloves
-- Clean your print bed, ideally with 90% or above isopropyl alcohol
+- Maintain a clean workspace. Clean your print bed, ideally with 90% or above isopropyl alcohol
 - Immediately store completed parts in airtight bags
 - Leave printed or completed parts for 3 days without touching them before shipping them
 
