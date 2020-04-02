@@ -1,8 +1,10 @@
 ## Shields for heroes
 
+Hobbyists, makers and enthusiasts are 3D printing splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
+
 We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
-This document is a *work in progress* and not an official guide from any organisation or project. Follow the conversation in the slack and facebook groups.
+This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups.
 
 ### You will need
 
