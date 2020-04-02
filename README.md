@@ -76,6 +76,8 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 - Do not open the seal of bags containing printed parts
 - See the OSV-X slack channel [#legal\_regulatory\_information group](https://app.slack.com/client/T01049EC3AN) for a legal disclaimer that should be signed by a healthcare centre
 
+#### Ship to healthcare centre
+
 - Contact info@covidcommunityresponse.ie and arrange transport of the PPE to healthcare centres
 
 ### Useful links
