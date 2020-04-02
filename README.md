@@ -25,11 +25,11 @@ If you don't have transparencies or the hole punch, you should still print the h
 
 Tl;dr:
 
-| Material      | PETG (preferred), PLA    |
-| Layer height  | 0.25mm (for 0.4mm nozzle |
-| Line width    | 0.4mm                    |
-| Infill        | 0%                       |
-| Wall count    | 4                        |
+| Material      | PETG (preferred), PLA     |
+| Layer height  | 0.2mm (for 0.4mm nozzle)  |
+| Line width    | 0.4mm                     |
+| Infill        | 0%                        |
+| Wall count    | 4                         |
 
 ### Cleanliness
 
