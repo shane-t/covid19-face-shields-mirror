@@ -2,6 +2,8 @@
 
 We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
+This document is a *work in progress* and not an official guide from any organisation or project. Follow the conversation in the slack and facebook groups.
+
 ### You will need
 
 - 3d printer and filament
@@ -29,6 +31,16 @@ Tl;dr:
 | Infill        | 0%                       |
 | Wall count    | 4                        |
 
+### Cleanliness
+
+- Do not make shields if you are not practicing isolation - you are risking the lives of patients and healthcare workers
+- Even so, you must act like you are already infected
+- Practice sterile or aseptic technique when handling printed parts or assembling shields
+- Wear gloves and frequently wash hands when handling printed parts. Do not touch your face or body while wearing gloves
+- Clean your print bed, ideally with 90% or above isopropyl alcohol
+- Immediately store completed parts in airtight bags
+- Leave printed or completed parts for 3 days without touching them before shipping them
+
 ### Creating the shield
 
 Until laser cut versions of the shield plastic are available, you can use transparent cellulose acetate from office suppliers, used in binding or overhead projection transparencies.
@@ -51,11 +63,19 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 
 ### What to do with completed shields (Work in progress)
 
+#### Find out where they need to go:
+
 - Contact local healthcare centres and establish the demand for face shields
-- You should label your shields "CUSTOM"
 - Follow the conversation in the facebook and slack groups
 - See the OSV-X slack channel [#urgent\_appeals\_volunteersneeded](https://app.slack.com/client/T01049EC3AN/C010FFHV5FC/) to find where help is needed the most
+
+#### Prepare for shipment
+
+- OSV-X are suggesting to label shields "CUSTOM"
+- If you want to send by motorbike, leave the shields unassembled and include the above printout. Motorbike panniers can only bring about a shopping bag sized cargo
+- Do not open the seal of bags containing printed parts
 - See the OSV-X slack channel [#legal\_regulatory\_information group](https://app.slack.com/client/T01049EC3AN) for a legal disclaimer that should be signed by a healthcare centre
+
 - Contact info@covidcommunityresponse.ie and arrange transport of the PPE to healthcare centres
 
 ### Useful links
@@ -64,4 +84,5 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 - [OSV-X face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
-- [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q)- [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
+- [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
+- [Bravo Charlie Tango - Bikers coming through](https://www.facebook.com/bravocharlietango1) - formerly organised by the [Irish Photo Rally](https://www.facebook.com/groups/380561575647815/) - volunteer motorcyclists delivering PPE
