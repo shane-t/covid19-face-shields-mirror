@@ -19,8 +19,8 @@ If you don't have transparencies or the hole punch, you should still print the h
 
 ### STL Files
 
-- [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 68kB)
-- [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
+- 💾 [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 68kB)
+- 💾 [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
 
 ### Print settings
 
@@ -62,7 +62,7 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 
 #### Shield Assembly
 
-- [Printout for assembling face shields](pdf/how-to-assemble-face-shield.pdf) that you can include with shipments of unassembled face shields
+- 💾 [Printout for assembling face shields](pdf/how-to-assemble-face-shield.pdf) that you can include with shipments of unassembled face shields
 
 ### What to do with completed shields (Work in progress)
 
