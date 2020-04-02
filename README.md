@@ -4,8 +4,9 @@ Makers and enthusiasts are 3D printing disposable splash protection face shields
 
 We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
-This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups.
+This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups. This document is primarily aimed at those with 3D printers who wish to join this effort and are confused with the variety of information available.
 
+If you have a 3D printer but do not have the ability to create full shields, there are options available for you. See 
 
 ### You will need
 
@@ -43,6 +44,13 @@ Tl;dr:
 - Maintain a clean workspace. Clean your print bed, ideally with 90% or above isopropyl alcohol
 - Immediately store completed parts in airtight bags
 - Leave printed or completed parts for 3 days without touching them before shipping them
+- Acetate accumulates static electricity which causes it to be covered with dust and contaminants. Wear an antistatic wristband ([instructions for DIY](https://www.instructables.com/id/How-To-Make-A-Grounding-Wrist-Band/)), and operate in a clean room away from sources of dust such as pets.
+
+## What to do with completed headbands if you cannot produce shields
+
+A group based in Cork ([facebook link](https://www.facebook.com/3dprintedfaceshields) are collecting printed parts using the blood bike network from everywhere in the country.
+
+They have a [getting started document](https://docs.google.com/document/d/1fa9RBVyz0xO1DSHTA3a_CUmjIGVTAJh6QOq5_PqGjqQ/edit) which includes a sign up form and a [job tracker](https://docs.google.com/spreadsheets/d/1ySXC6XBCXWqMnbxaJr-0udGCNy299FHu5ZY_5JT23No/edit#gid=0). This group is preparing a HSE provided facility for central assembly and sanitizing of 3d printed parts, as well as machinery for cut-and-die of acetate sheets.
 
 ### Creating the shield
 
@@ -91,6 +99,7 @@ You can use a [3d printable cutting guide](https://www.thingiverse.com/thing:425
 ### Useful links
 
 - [Google Form](https://forms.gle/iBgn1YcejnERhFzx9) to track who has 3d printers and can produce shields
+- [3d Printed face shields for Irish Healthcare workers](https://www.facebook.com/104090071254209/posts/104128811250335/?d=n) - a facebook group based in Cork 
 - [OSV-X face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
 - [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
