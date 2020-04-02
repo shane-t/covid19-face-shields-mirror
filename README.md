@@ -46,7 +46,7 @@ Tl;dr:
 
 ### Creating the shield
 
-Until laser cut versions of the shield plastic are available, you can use transparent cellulose acetate from office suppliers, used in binding or overhead projection transparencies.
+Until laser cut versions of the shield plastic are available, you can use transparent cellulose acetate sheets from office suppliers, used in binding or overhead projection.
 
 #### Obtaining acetate
 
@@ -56,9 +56,11 @@ Until laser cut versions of the shield plastic are available, you can use transp
 
 #### Preparing the acetate (Work in Progress)
 
-You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/protective-visor/protective-visor-versions/). Follow the instructions for the European version. 
+You can follow the instructions on the [3dverkstan page](https://3dverkstan.se/protective-visor/protective-visor-versions/). Follow the instructions for the European version. 
 
 - TODO: Add a video of the acetate being prepared.
+- TODO: Add template for cutting out acetate
+- TODO: Add 3d printable guide part
 
 #### Shield Assembly
 
@@ -94,6 +96,6 @@ You cam follow the instructions on the [3dverkstan page](https://3dverkstan.se/p
 - [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
 - [Bravo Charlie Tango - Bikers coming through](https://www.facebook.com/bravocharlietango1) - formerly organised by the [Irish Photo Rally](https://www.facebook.com/groups/380561575647815/) - volunteer motorcyclists delivering PPE
 
-#### This document
+## This document
 
 This document is up to date as of 2 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
