@@ -1,6 +1,6 @@
 ## Overview
 
-Hobbyists, makers and enthusiasts are 3D printing splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
+Hobbyists, makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
 We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
@@ -38,7 +38,7 @@ Tl;dr:
 
 - Do not make shields if you are not practicing isolation - you are risking the lives of patients and healthcare workers
 - Even so, you must act like you are already infected
-- Practice sterile or aseptic technique when handling printed parts or assembling shields
+- Practice sterile or aseptic technique when handling printed parts or assembling shields. Understand the difference between sanitizing and sterilising something - 3D printed shields cannot be sterilized and must be discarded after use or contamination
 - Wear gloves and frequently wash hands when handling printed parts. Do not touch your face or body while wearing gloves
 - Clean your print bed, ideally with 90% or above isopropyl alcohol
 - Immediately store completed parts in airtight bags
