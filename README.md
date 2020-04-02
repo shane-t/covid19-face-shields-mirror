@@ -19,7 +19,7 @@ If you don't have transparencies or the hole punch, you should still print the h
 
 ### STL Files
 
-- 💾 [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 68kB)
+- 💾 [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 211kB)
 - 💾 [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
 
 ### Print settings
