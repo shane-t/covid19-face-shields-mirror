@@ -13,6 +13,12 @@ If you have a 3D printer but do not have the ability to create full shields, the
 
 ### You will need
 
+#### To make headbands
+
+- 3D Printer
+- Filament (ideally PETG, but PLA is OK)
+
+#### To make full shields
 
 - Hole punch (ideally an adjustable hole punch capable of punching A6)
 - Transparent plastic, ideally A4 size
