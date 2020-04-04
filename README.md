@@ -124,4 +124,4 @@ Some facilities are cleaning the printed parts (headbands) and replacing the ace
 
 ## This document
 
-This document is up to date as of 2 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
+This document is up to date as of 4 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
