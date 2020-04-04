@@ -10,7 +10,7 @@ If you have a 3D printer but do not have the ability to create full shields, the
 
 ### You will need
 
-- 3d printer and filament
+
 - Hole punch (ideally an adjustable hole punch capable of punching A6)
 - Transparent plastic, ideally A4 size
 
@@ -99,6 +99,14 @@ You can use a [3d printable cutting guide](https://www.thingiverse.com/thing:425
 #### Ship to healthcare centre
 
 - Contact info@covidcommunityresponse.ie and arrange transport of the PPE to healthcare centres
+
+## Reuse of masks
+
+In general, full face shields are single use and cannot be reused without creating an infection risk.
+
+Whether face shields are being reused depends on the setting (hospital vs community) and the type of patients they deal with, and the workers who are using the shields.
+
+Some facilities are cleaning the printed parts (headbands) and replacing the acetate sheets. It follows that if you can oversupply acetate, some centres may be able to get additional use out of the headbands. If you find out which facilities are doing this, please share this information with the printiing community or one of the design/distribution projects.
 
 ### Useful links
 
