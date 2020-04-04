@@ -1,5 +1,5 @@
-{% include toc.html html=content %}
 
+* TOC {:toc}
 
 # Overview
 
