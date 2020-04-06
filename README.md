@@ -7,7 +7,7 @@ We are using the European 3DVerkstan headband with the Prusa bottom reinforcemen
 
 This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups. This document is primarily aimed at those with 3D printers who wish to join this effort and are confused with the variety of information available.
 
-If you have a 3D printer but do not have the ability to create full shields, there are options available for you. See 
+If you have a 3D printer but do not have the ability to create full shields, there are options available for you. See [#what-to-do-with-completed-headbands-if-you-cannot-produce-shields](below).
 
 ### You will need
 
