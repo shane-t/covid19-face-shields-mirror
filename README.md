@@ -3,7 +3,7 @@
 
 Makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
-We are using the National 3D Printing Society model v3.6 with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
+We are using the **National 3D Printing Society model v3.6** with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
 This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups. This document is primarily aimed at those with 3D printers who wish to join this effort and are confused with the variety of information available.
 
@@ -26,7 +26,7 @@ If you don't have transparencies or the hole punch, you should still print the h
 [Bill of materials and suppliers](https://docs.google.com/spreadsheets/d/1P82SjNFjnlUv9jMCV1lQ58hv1xy0e82Laxkcx2OgL20/edit#gid=0) from OSV-X.
 
 ### STL Files
-- 💾 [N3DPS v3.6](/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl) (/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl : 1.9mB)
+- 💾 [N3DPS v3.6](/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl) (N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl : 1.9mB)
 - 💾 [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
 
 ### Older STLs
@@ -120,11 +120,12 @@ Some facilities are cleaning the printed parts (headbands) and replacing the ace
 
 ### Useful links
 
+- [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
+- [Team OSV](https://www.teamosv.com/) which is an open source ventilator project, but which includes OSV-X - other projects, including face shields
 - [Google Form](https://forms.gle/iBgn1YcejnERhFzx9) to track who has 3d printers and can produce shields
 - [3d Printed face shields for Irish Healthcare workers](https://www.facebook.com/104090071254209/posts/104128811250335/?d=n) - a facebook group based in Cork 
 - [OSV-X face shield project working notes](https://docs.google.com/document/d/1hrgpJx-KlVm7Zv1EhKEWJzXrp8pYcDepGpfr0J4zAzk/edit)
 - [Covid community response](https://covidcommunityresponse.ie/)
-- [3d printing Ireland facebook group](https://www.facebook.com/groups/3dprintingireland)
 - [OSV-X Slack](https://join.slack.com/t/osv-x/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q) 
 - [Covid med supply](https://covidmedsupply.org/) - List of healthcare centres that need PPE and individuals offering it
 - [Bravo Charlie Tango - Bikers coming through](https://www.facebook.com/bravocharlietango1) - formerly organised by the [Irish Photo Rally](https://www.facebook.com/groups/380561575647815/) - volunteer motorcyclists delivering PPE
