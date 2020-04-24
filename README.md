@@ -26,7 +26,7 @@ If you don't have transparencies or the hole punch, you should still print the h
 [Bill of materials and suppliers](https://docs.google.com/spreadsheets/d/1P82SjNFjnlUv9jMCV1lQ58hv1xy0e82Laxkcx2OgL20/edit#gid=0) from OSV-X.
 
 ### STL Files
-- 💾 [N3DPS v3.6](/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl) (N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl : 1.9mB)
+- 💾 [N3DPS v3.6](/stl/N3DPS_PFS_1_Stack_0.3_Spacer_NL_v3.6.stl) (N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl : 1.9mB)
 - 💾 [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
 
 ### Older STLs
