@@ -3,7 +3,7 @@
 
 Makers and enthusiasts are 3D printing disposable splash protection face shields to address a shortage of PPE during the COVID-19 crisis in Ireland.
 
-We are using the European 3DVerkstan headband with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
+We are using the National 3D Printing Society model v3.6 with the Prusa bottom reinforcement. The headband is 3d printable with PETG or PLA, and the shield part can be made with acetate (150+ micron preferred, thicker is better)
 
 This document is a **work in progress and not an official guide from any organisation, project or institution** but an attempt to summarise the information that is available. Follow the conversation in the slack and facebook groups. This document is primarily aimed at those with 3D printers who wish to join this effort and are confused with the variety of information available.
 
@@ -18,7 +18,7 @@ If you have a 3D printer but do not have the ability to create full shields, the
 
 #### To make full shields
 
-- Hole punch (ideally an adjustable hole punch capable of punching A6)
+- Hole punch (For N3DPS, use an "ISO888" 4 hole punch, and for 3dverkstan, a 2 hole punch spaced for A6)
 - Transparent plastic, ideally A4 size
 
 If you don't have transparencies or the hole punch, you should still print the headbands, as there are solutions in the works to produce the shields separately.
@@ -26,9 +26,12 @@ If you don't have transparencies or the hole punch, you should still print the h
 [Bill of materials and suppliers](https://docs.google.com/spreadsheets/d/1P82SjNFjnlUv9jMCV1lQ58hv1xy0e82Laxkcx2OgL20/edit#gid=0) from OSV-X.
 
 ### STL Files
-
-- 💾 [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 211kB)
+- 💾 [N3DPS v3.6](/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl) (/stl/N3DPS\_PFS\_1\_Stack\_0.3\_Spacer\_NL\_v3.6.stl : 1.9mB)
 - 💾 [Prusa bottom reinforcement](/stl/bottom_reinforcement.stl) (bottom\_reinforcement.stl : 383 kB) 
+
+### Older STLs
+- 💾 [3dverkstan EUROPE Headband](/stl/Visor_frame_EUROPE_ISO838_v3.stl) (Visor\_frame\_EUROPE\_ISO838\_v3.stl : 211kB)
+
 
 ### STEP Files
 
@@ -61,7 +64,7 @@ Tl;dr:
 
 Benchspace based in Cork ([website](https://benchspacecork.ie/3d-printed-faceshield-for-irish-healthcare-workers/)/[facebook](https://www.facebook.com/3dprintedfaceshields)) are collecting printed parts using the blood bike network from everywhere in the country. They have a [crowdfunding campaign](https://www.gofundme.com/f/3d-printed-faceshields-for-frontline-staff) for obtaining materials.
 
-They have a [getting started document](https://docs.google.com/document/d/1fa9RBVyz0xO1DSHTA3a_CUmjIGVTAJh6QOq5_PqGjqQ/edit) which includes a sign up form and a [job tracker](https://docs.google.com/spreadsheets/d/1ySXC6XBCXWqMnbxaJr-0udGCNy299FHu5ZY_5JT23No/edit#gid=0). This group is preparing a HSE provided facility for central assembly and sanitizing of 3d printed parts, as well as machinery for cut-and-die of acetate sheets.
+They have a [getting started document](https://docs.google.com/document/d/1fa9RBVyz0xO1DSHTA3a_CUmjIGVTAJh6QOq5_PqGjqQ/edit) which includes a sign up form and a [job tracker](https://ppe-hub.ie/login#/dashboard). This group is preparing a HSE provided facility for central assembly and sanitizing of 3d printed parts, as well as machinery for cut-and-die of acetate sheets.
 
 ### Creating the shield
 
@@ -128,4 +131,4 @@ Some facilities are cleaning the printed parts (headbands) and replacing the ace
 
 ## This document
 
-This document is up to date as of 4 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
+This document is up to date as of 24 April 2020. Please reach out to `me``(at)``shanet.ie` for corrections or if you wish to contribute.
